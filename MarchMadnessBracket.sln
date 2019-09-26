@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarchMadnessBracketGenerator", "MarchMadnessBracket\MarchMadnessBracketGenerator.csproj", "{C7383256-AC2B-47E7-90BA-FFD80A1FF84A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7383256-AC2B-47E7-90BA-FFD80A1FF84A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7383256-AC2B-47E7-90BA-FFD80A1FF84A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7383256-AC2B-47E7-90BA-FFD80A1FF84A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7383256-AC2B-47E7-90BA-FFD80A1FF84A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FFB2F39-EEA3-428A-96B8-D08328BE338C}
+	EndGlobalSection
+EndGlobal

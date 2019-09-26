@@ -1,0 +1,12 @@
+C:\Users\bcarlson\Source\Repos\MarchMadnessBracket\MarchMadnessBracket\bin\Debug\MarchMadnessBracketGenerator.exe.config
+C:\Users\bcarlson\Source\Repos\MarchMadnessBracket\MarchMadnessBracket\bin\Debug\MarchMadnessBracketGenerator.exe
+C:\Users\bcarlson\Source\Repos\MarchMadnessBracket\MarchMadnessBracket\bin\Debug\MarchMadnessBracketGenerator.pdb
+C:\Users\bcarlson\Source\Repos\MarchMadnessBracket\MarchMadnessBracket\bin\Debug\CsvHelper.dll
+C:\Users\bcarlson\Source\Repos\MarchMadnessBracket\MarchMadnessBracket\bin\Debug\System.ValueTuple.dll
+C:\Users\bcarlson\Source\Repos\MarchMadnessBracket\MarchMadnessBracket\bin\Debug\CsvHelper.xml
+C:\Users\bcarlson\Source\Repos\MarchMadnessBracket\MarchMadnessBracket\bin\Debug\System.ValueTuple.xml
+C:\Users\bcarlson\Source\Repos\MarchMadnessBracket\MarchMadnessBracket\obj\Debug\MarchMadnessBracketGenerator.csprojAssemblyReference.cache
+C:\Users\bcarlson\Source\Repos\MarchMadnessBracket\MarchMadnessBracket\obj\Debug\MarchMadnessBracketGenerator.csproj.CoreCompileInputs.cache
+C:\Users\bcarlson\Source\Repos\MarchMadnessBracket\MarchMadnessBracket\obj\Debug\MarchMadnessBracketGenerator.csproj.CopyComplete
+C:\Users\bcarlson\Source\Repos\MarchMadnessBracket\MarchMadnessBracket\obj\Debug\MarchMadnessBracketGenerator.exe
+C:\Users\bcarlson\Source\Repos\MarchMadnessBracket\MarchMadnessBracket\obj\Debug\MarchMadnessBracketGenerator.pdb
